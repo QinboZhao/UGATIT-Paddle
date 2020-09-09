@@ -59,12 +59,11 @@ python main.py  --dataset selfie2anime --phase test
 - results/selfie2anime/test
 
  测试输出的图片
- ![test/A2B_1.png](https://github.com/QinboZhao/UGATIT-Paddle/blob/master/results/selfie2anime/test/A2B_1.png){:height="50%" width="50%"}
- ![test/B2A_9.png](https://github.com/QinboZhao/UGATIT-Paddle/blob/master/results/selfie2anime/test/B2A_9.png){:height="50%" width="50%"}
-
+![test/A2B_1.png](https://github.com/QinboZhao/UGATIT-Paddle/blob/master/results/selfie2anime/test/A2B_1.png)
+![test/B2A_9.png](https://github.com/QinboZhao/UGATIT-Paddle/blob/master/results/selfie2anime/test/B2A_9.png)
 
 ## 训练日志
-# log.txt 记录训练过程
+### log.txt 记录训练过程
 
 
 
