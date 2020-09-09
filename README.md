@@ -59,10 +59,12 @@ python main.py  --dataset selfie2anime --phase test
 - results/selfie2anime/test
 
  测试输出的图片
+ ![test/A2B_1.png](https://github.com/QinboZhao/UGATIT-Paddle/blob/master/results/selfie2anime/test/A2B_1.png)
+ ![test/B2A_9.png](https://github.com/QinboZhao/UGATIT-Paddle/blob/master/results/selfie2anime/test/B2A_9.png)
 
 
 ## 训练日志
-log.txt记录训练过程
+#log.txt记录训练过程
 数据集: selfie2anime
 
 
